@@ -1,4 +1,4 @@
-package at.ac.htlinn.spring_boot.demo;
+package at.ac.htlinn.spring_boot.demo.person;
 
 import java.util.List;
 

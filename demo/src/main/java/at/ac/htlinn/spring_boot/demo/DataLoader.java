@@ -3,6 +3,9 @@ package at.ac.htlinn.spring_boot.demo;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+import at.ac.htlinn.spring_boot.demo.person.Person;
+import at.ac.htlinn.spring_boot.demo.person.PersonRepository;
+
 @Component
 public class DataLoader implements CommandLineRunner {
 
